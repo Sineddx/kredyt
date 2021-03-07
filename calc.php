@@ -54,4 +54,4 @@ $result = $month + $percent;
 }
 
 // wywołuje widok z przekazaniem zmiennych
-include 'calc_vieww.php';
+include 'calc_view.php';
